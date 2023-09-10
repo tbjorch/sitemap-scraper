@@ -1,3 +1,3 @@
-# Aftonbladet Sitemap Scraper
-Service is responsible for scraping Aftonbladet's sitemap and extract article URLs that are of interest
+# Sitemap Scraper
+Service is responsible for scraping news sites sitemaps and extract article URLs that are of interest
 
