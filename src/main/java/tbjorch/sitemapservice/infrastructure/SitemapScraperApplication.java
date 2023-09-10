@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AftonbladetSitemapScraperApplication {
+public class SitemapScraperApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AftonbladetSitemapScraperApplication.class, args);
+		SpringApplication.run(SitemapScraperApplication.class, args);
 	}
 }
